@@ -2,7 +2,7 @@
 
 ## 파이썬 기초 프로그래밍 공부
 
-### 코드출처 : 파이썬 코딩 도장 https://dojang.io
+### 코드출처 : 파이썬 코딩 도장 https://dojang.io, https://github.com/namjaeyoon
 
 ### 아나콘다 설치하기
 1. 아나콘다 홈페이지 다운로드페이지로 이동 합니다.
